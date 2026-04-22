@@ -134,7 +134,7 @@ flutter_thai_hotline_app/
 
 <div align="center">
 
-_Made with ❤️ using Flutter · © 2025 Chanathip Chueycherm_
+_Made with ❤️ using Flutter · © 2026 Chanathip Chueycherm_
 
 </div>
 
