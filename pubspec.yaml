@@ -1,0 +1,42 @@
+name: flutter_thai_hotline_app
+description: "Thai hotline app built with Flutter."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_fonts: any
+  font_awesome_flutter: any
+  url_launcher: any
+  flutter_map: any
+  latlong2: any
+  carousel_slider: any
+  flutter_svg: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  icons_launcher: any
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icon/
+    - assets/icon/emergency/
+    - assets/icon/transport/
+    - assets/icon/utility/
+
+icons_launcher:
+  image_path: "assets/icon/icon.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
