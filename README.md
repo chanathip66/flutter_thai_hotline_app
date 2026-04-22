@@ -49,10 +49,10 @@ https://github.com/user-attachments/assets/c49930e6-04c6-490c-8f02-0b962f4cef48
 
 <div align="center">
 
-| Splash | Home | หมวดหมู่ |
+| Splash | เหตุฉุกเฉิน | การเดินทาง |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/d5fc8c03-621c-4de0-bb7b-6cb81e5116a5" width="240" /> | <img src="https://github.com/user-attachments/assets/2970392d-b7dd-450c-bf8a-3d4529499006" width="240" /> | <img src="https://github.com/user-attachments/assets/65743768-61cf-46ee-9444-523e6c9ca313" width="240" /> |
-| **เหตุฉุกเฉิน** | **การเดินทาง** | **โปรไฟล์** |
+| **ธนาคาร** | **สาธารณูปโภค** | **โปรไฟล์** |
 | <img src="https://github.com/user-attachments/assets/49109041-0c4b-413d-9c21-63d090d4f01d" width="240" /> | <img src="https://github.com/user-attachments/assets/29666a20-2829-4e83-b7cc-7eaaa50716fa" width="240" /> | <img src="https://github.com/user-attachments/assets/22170f9c-e740-4f6c-a23d-05d627e85249" width="240" /> |
 
 </div>
